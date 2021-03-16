@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Dev Babbar. I like coding in Python and c++. I like to play chess in my free time.
 <!--
 **devbabbar7/devbabbar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
